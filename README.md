@@ -1,4 +1,3 @@
-# ekvaker.github.io
 <head>
   <title>KVAKERLANDIA</title>
 </head>
